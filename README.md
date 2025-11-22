@@ -1,3 +1,6 @@
+[![Open in Streamlit] (https://edunetsmartgrid-qhde2zv9d4ovpfcoyyavxo.streamlit.app/)
+
+-------
 ⚡ Smart Power Grid Optimization & Forecasting Dashboard
 
 A real-time intelligent energy management dashboard built using Streamlit. It predicts electricity demand, recommends optimal energy sources, suggests battery storage actions, and visualizes grid behavior using interactive charts.
